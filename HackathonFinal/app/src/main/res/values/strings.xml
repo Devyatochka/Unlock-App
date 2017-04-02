@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HackatonFinal</string>
+    <string name="enter_pin_code">Enter PIN code</string>
+</resources>
